@@ -36,5 +36,10 @@ To better understand the Fashion-MNIST, visualization was used.
 
 The first visualization was for the first image in this dataset as follows: <img width="535" alt="Screenshot 2023-10-04 at 9 34 42 AM" src="https://github.com/ria-bhandari/Style_AI/assets/121469289/568fe831-99ab-461d-8e72-a050928ed118">
 
+
+
 All the classes in this dataset are:
+
+
+
 <img width="578" alt="Screenshot 2023-10-04 at 9 34 51 AM" src="https://github.com/ria-bhandari/Style_AI/assets/121469289/e5bd2d76-910d-4af3-93a7-2122000af8aa">
